@@ -26,8 +26,8 @@ My goal is to begin my career as a SOC Analyst where I can apply my knowledge of
 
 ### Operating Systems
 <div>
-<img src="https://img.shields.io/badge/-Windows%2010-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%2010-28d600?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-28d600?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
