@@ -1,14 +1,13 @@
-# Hello, I'm Moaaz! You can call me Mo
+# Hello, I'm Moaaz! You can call me Mo 👋
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I'm an aspiring Cybersecurity Analyst with a strong passion for both Red Team & Blue Team operations, threat detection, and digital forensics. I enjoy building enterprise-style security labs that simulate real-world attacks and developing detections using SIEM technologies.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Currently, I have completed building an Active Directory Detection Lab featuring Windows Server, Splunk Enterprise, Sysmon, Kali Linux, Atomic Red Team, and attack simulation tools to gain hands-on experience in Security Operations (SOC), Incident Response, and Threat Hunting.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to begin my career as a SOC Analyst where I can apply my knowledge of Windows security, log analysis, Active Directory, SIEM engineering, and attack detection while continuing to develop my incident response and threat hunting skills.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -25,25 +24,45 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Operating Systems
+<div>
+<img src="https://img.shields.io/badge/-Windows%2010-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
+
+### Security Tools
+<div>
+<img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Atomic%20Red%20Team-D32F2F?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Hydra-000000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Crowbar-4CAF50?&style=for-the-badge" />
+</div>
+
+### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Virtualization & Infrastructure
+<div>
+<img src="https://img.shields.io/badge/-VirtualBox-2F61B4?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
